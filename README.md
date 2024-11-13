@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello!
+
+## Contact Info
+**Selena Pham**</br>
+she/her</br>
+*selena40253@gmail.com*
+
+## 🌱 Currently Learning
+-HTML
+-CSS
 
 <!--
 **sp11037/sp11037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
